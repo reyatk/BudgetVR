@@ -1,2 +1,3 @@
 # BudgetVR
 ## Virtual reality game to teach teens financial literacy fundamentals
+#### Objects are placed throughout the room. The player must select certain objects, and when they do, a message will appear describing a particular financial-based experience. The player must choose which category this financial-based experience belongs to: savings, expenses, and entertainment and place them under the category. If all objects are in their correct category based on location zones, the game will end. The goal of this game is to teach teenagers how to create a budget and allocate their activities into specific categories.
